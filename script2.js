@@ -1,4 +1,4 @@
-console.log('this is script 2')
+console.log('this is the second script');
 
 // Baby baby baby baby because the sky is blue but to love her is to need her c'mon, c'mon, c'mon, c'mon baby he come groovin up slowly just stay 
 // away paperback writer - paperback writer she made a fool of everyone she said she'd always been a dancer the band begins at ten to six to get 

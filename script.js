@@ -1,4 +1,4 @@
-console.log('this is script 1')
+console.log('this is the first script');
 
 // Cupcake ipsum dolor. Sit amet toffee dragée bonbon lollipop danish. Cake donut jujubes cotton candy carrot cake pudding gummi bears. 
 // Ice cream sugar plum sesame snaps cupcake donut powder. Muffin gummies jelly beans cotton candy tootsie roll jelly-o gingerbread 

@@ -1,4 +1,4 @@
-console.log('this is script 3')
+console.log('this is the third script');
 
 // And barista cinnamon dark est foam frappuccino latte strong sweet. A aftertaste aromatic breve carajillo crema est eu flavour froth in macchiato 
 // sit spice variety whipped. Aftertaste as at brewed caffeine caramelization chicory crema cultivar doppio dripper espresso eu extraction filter 
